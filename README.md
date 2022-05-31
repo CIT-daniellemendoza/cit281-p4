@@ -5,7 +5,7 @@ Purpose: Create REST API server with Fastify Get verb, write code module testing
 Create a REST API server that works with a "data" source of questions and answers (see code block below). Create code to work with data using a code module with provided test code (see below pt. 2). Create 
 
 
-## Data Provided (Questionsa and Answers)
+## Data Provided (Questions and Answers)
 ```
 // Question and answer data array
 const data = [
